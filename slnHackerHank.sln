@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSShortestReach", "BFSShor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraShortestReach", "DijkstraShortestReach\DijkstraShortestReach.csproj", "{F049AB75-595D-45F7-AE7D-CB5D2CC0EA5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjDrones", "prjDrones\prjDrones.csproj", "{E2B89D83-6C8D-4E29-80AF-223352C572C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjDelivery", "prjDelivery\prjDelivery.csproj", "{8240A6DA-87A5-4F9B-A565-FE15D791E126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F049AB75-595D-45F7-AE7D-CB5D2CC0EA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F049AB75-595D-45F7-AE7D-CB5D2CC0EA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F049AB75-595D-45F7-AE7D-CB5D2CC0EA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B89D83-6C8D-4E29-80AF-223352C572C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B89D83-6C8D-4E29-80AF-223352C572C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B89D83-6C8D-4E29-80AF-223352C572C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B89D83-6C8D-4E29-80AF-223352C572C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8240A6DA-87A5-4F9B-A565-FE15D791E126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8240A6DA-87A5-4F9B-A565-FE15D791E126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8240A6DA-87A5-4F9B-A565-FE15D791E126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8240A6DA-87A5-4F9B-A565-FE15D791E126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
